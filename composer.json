@@ -1,0 +1,1 @@
+{\n    "require": {\n        "endroid/qr-code": "^4.4",\n        "psr/log": "^1.1"\n    },\n    "autoload": {\n        "psr-4": {\n            "App\\": "src/"\n        }\n    }\n}
